@@ -1,0 +1,464 @@
+canonical_identifier: bkk:krp/KR3ed001/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed001/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五十二病方
+  identifiers:
+    krp: KR3ed001
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat08100
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed001.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed001_000-jc.yaml, hash: 'sha256:740faa67820a48c82a11678f751a481b1dc425db53ef6b13e895b54f832a92fa'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed001_000-jc.markers.yaml, hash: 'sha256:6bca6dbd258f48637fe0bc0a6ae90718fc370e59e4109399140cf934627389e0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 575
+  label: 諸傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d3.h1s1
+    span:
+    - body
+    - 575
+    - 955
+  label: 傷痙
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d4.h1s1
+    span:
+    - body
+    - 955
+    - 1034
+  label: 嬰兒索痙
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d5.h1s1
+    span:
+    - body
+    - 1034
+    - 1138
+  label: 嬰兒病間癇方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d6.h1s1
+    span:
+    - body
+    - 1138
+    - 1281
+  label: 嬰兒瘛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d7.h1s1
+    span:
+    - body
+    - 1281
+    - 1395
+  label: 狂犬齧人
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d8.h1s1
+    span:
+    - body
+    - 1395
+    - 1494
+  label: 犬筮噬人傷者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d9.h1s1
+    span:
+    - body
+    - 1494
+    - 1546
+  label: 巢者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d10.h1s1
+    span:
+    - body
+    - 1546
+    - 1617
+  label: 夕下
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d11.h1s1
+    span:
+    - body
+    - 1617
+    - 1729
+  label: 毒烏豙喙者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d12.h1s1
+    span:
+    - body
+    - 1729
+    - 1816
+  label: 㯆𤼚蠆
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d13.h1s1
+    span:
+    - body
+    - 1816
+    - 1851
+  label: 蛭食蝕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d14.h1s1
+    span:
+    - body
+    - 1851
+    - 2175
+  label: 蚖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d15.h1s1
+    span:
+    - body
+    - 2175
+    - 2486
+  label: 尤疣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d16.h1s1
+    span:
+    - body
+    - 2486
+    - 2573
+  label: 顛癲疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d17.h1s1
+    span:
+    - body
+    - 2573
+    - 2989
+  label: 白處方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d18.h1s1
+    span:
+    - body
+    - 2989
+    - 3015
+  label: 大帶者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d19.h1s1
+    span:
+    - body
+    - 3015
+    - 3089
+  label: 冥螟病方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d20.h1s1
+    span:
+    - body
+    - 3089
+    - 3132
+  label: 蠸者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d21.h1s1
+    span:
+    - body
+    - 3132
+    - 3145
+  label: 𢵡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d22.h1s1
+    span:
+    - body
+    - 3145
+    - 4081
+  label: 人病馬不間癇者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d23.h1s1
+    span:
+    - body
+    - 4081
+    - 4097
+  label: 弱溺淪者方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d24.h1s1
+    span:
+    - body
+    - 4097
+    - 4130
+  label: 膏弱溺
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d25.h1s1
+    span:
+    - body
+    - 4130
+    - 4192
+  label: 種腫橐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d26.h1s1
+    span:
+    - body
+    - 4192
+    - 5191
+  label: 頹㿗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d27.h1s1
+    span:
+    - body
+    - 5191
+    - 5265
+  label: 脈者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d28.h1s1
+    span:
+    - body
+    - 5265
+    - 5544
+  label: 牡痔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d29.h1s1
+    span:
+    - body
+    - 5544
+    - 6051
+  label: 牝痔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d30.h1s1
+    span:
+    - body
+    - 6051
+    - 6262
+  label: 朐養癢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d31.h1s1
+    span:
+    - body
+    - 6262
+    - 6845
+  label: 睢疽病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d32.h1s1
+    span:
+    - body
+    - 6845
+    - 7215
+  label: 闌爛者方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d33.h1s1
+    span:
+    - body
+    - 7215
+    - 7323
+  label: 胻膫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d34.h1s1
+    span:
+    - body
+    - 7323
+    - 7523
+  label: 胻傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d35.h1s1
+    span:
+    - body
+    - 7523
+    - 8164
+  label: 加痂
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d36.h1s1
+    span:
+    - body
+    - 8164
+    - 8175
+  label: 蛇齧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d37.h1s1
+    span:
+    - body
+    - 8175
+    - 8540
+  label: 癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d38.h1s1
+    span:
+    - body
+    - 8540
+    - 8715
+  label: 鬃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d39.h1s1
+    span:
+    - body
+    - 8715
+    - 9008
+  label: 蟲蝕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d40.h1s1
+    span:
+    - body
+    - 9008
+    - 9337
+  label: 干騷瘙方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d41.h1s1
+    span:
+    - body
+    - 9337
+    - 9639
+  label: 身疕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d42.h1s1
+    span:
+    - body
+    - 9639
+    - 9804
+  label: 蠱者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d43.h1s1
+    span:
+    - body
+    - 9804
+    - 9901
+  label: 魃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d44.h1s1
+    span:
+    - body
+    - 9901
+    - 9991
+  label: 去人馬疣方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed001_jc_000-d45.h1s1
+    span:
+    - body
+    - 9991
+    - 10219
+  label: 治㾺㾺者
+  type: section
+  level: 1
+hash: sha256:f9d2e19e05e3ada145251f083d8ddac1a86948460b8208b735c25f335aeae8af
